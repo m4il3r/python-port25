@@ -1,0 +1,17 @@
+#Installation Instructions.
+
+= Introduction =
+
+This page tries to give installation instructions.  The instructions are listed from order of the author's general preference.
+
+
+= Details =
+
+This not exaustive:
+  * RPMs
+    # Download RPM from Downloads section. (or do setup.py bdist_rpm ).
+    # rpm -Uvh python-port25-version.noarch.rpm
+  * pip
+    # pip install python-port25 (especially recommended for virtualenv use).
+  * setup.py
+    # python setup.py install
