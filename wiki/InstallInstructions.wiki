@@ -7,7 +7,7 @@ This page tries to give installation instructions.  The instructions are listed 
 
 = Details =
 
-This not exaustive:
+This are not exaustive:
   * RPMs
     # Download RPM from Downloads section. (or do setup.py bdist_rpm ).
     # rpm -Uvh python-port25-version.noarch.rpm
