@@ -1,4 +1,4 @@
-#Description of how to access the various forms of documentation.
+#summary Description of how to access the various forms of documentation.
 
 = Introduction =
 
